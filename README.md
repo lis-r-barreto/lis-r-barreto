@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://media0.giphy.com/media/1Q9vRiMF7jjcNrFB2o/giphy.gif" width="150"> A little more about me...  
+### <img src="https://media0.giphy.com/media/1Q9vRiMF7jjcNrFB2o/giphy.gif" width="200"> A little more about me...  
 
 
 ```python
@@ -26,8 +26,8 @@ class LisBarreto:
 
     def __init__(self):
         self.name = 'Lis R. Barreto'
-        self.username = 'lis-r-barreto'
         sel.pronouns = 'she/her'
+        self.username = 'lis-r-barreto'
         self.web = 'https://dev.to/lisrbarreto'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript'],
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lis-r-barreto&show_icons=true&theme=synthwave">
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"></em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200"></em>
 
 <hr>
 
