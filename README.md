@@ -5,7 +5,7 @@
 <h2 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="80"> </h2>
 
 <h3>
-  <p>Computer Engineering Student at <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
+  <p>Computer Engineering Undergraduate Student at <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
   <p><a href="instagram.com/pyladiessergipe/">PyLadies Sergipe</a><a> co-organizer</a></p>
 </h3>
 
@@ -32,8 +32,8 @@ class LisBarreto:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Java', 'C#', '.NET'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook'],
-            'misc': ['SCRUM', 'KANBAN', 'GNU/Linux']
+            'tools': ['Git', 'GitHub', 'Pandas', 'Jupyter notebook'],
+            'misc': ['Scrum', 'Kanban', 'GNU/Linux']
         }
 
     def __str__(self):
