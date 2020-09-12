@@ -26,7 +26,7 @@ class LisBarreto:
 
     def __init__(self):
         self.name = 'Lis R. Barreto'
-        sel.pronouns = 'she/her'
+        self.pronouns = 'she/her'
         self.username = 'lis-r-barreto'
         self.web = 'https://dev.to/lisrbarreto'
         self.code = {
