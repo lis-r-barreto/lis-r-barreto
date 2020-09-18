@@ -5,9 +5,9 @@
 <h2 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="80"> </h2>
 
 <h3>
-  <p>Computer Engineering Undergraduate at <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
+  <p>Computer Engineering undergraduate student at <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
   <p><a href="instagram.com/pyladiessergipe/">PyLadies Sergipe</a><a> co-organizer</a></p>
-  <p>I'm currently learning Web Development<p>
+  <p>Currently learning Web Development<p>
 </h3>
 
 <h3  align="center"></h3>
