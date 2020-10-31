@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lis-r-barreto&show_icons=true&theme=synthwave">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lis-r-barreto&show_icons=true&theme=synthwave&layout=compact">
 
 [![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=lis-r-barreto&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
