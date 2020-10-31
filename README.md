@@ -47,10 +47,9 @@ if __name__ == '__main__':
 
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lis-r-barreto&show_icons=true&theme=synthwave&layout=compact">
-
 [![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=lis-r-barreto&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lis-r-barreto&theme=synthwave&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
 
