@@ -33,7 +33,7 @@ class LisBarreto:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Java', 'C#'],
-            'pytools': ['NumPy', 'Matplotlib', 'Pandas'],
+            'pytools': ['NumPy', 'Matplotlib', 'Pandas', 'Jupyter Notebook'],
             'tools': ['Git & GitHub', 'GNU/Linux'],
             'misc': ['Scrum', 'Kanban', 'XP Programming']
         }
