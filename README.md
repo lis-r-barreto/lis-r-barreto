@@ -29,12 +29,13 @@ class LisBarreto:
         self.name = 'Lis R. Barreto'
         self.pronouns = 'she/her'
         self.username = 'lis-r-barreto'
-        self.web = 'https://dev.to/lisrbarreto'
+        self.web = 'linktr.ee/LisBarreto'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'Java', 'C#', '.NET'],
-            'tools': ['Git', 'GitHub', 'Pandas', 'Jupyter notebook'],
-            'misc': ['Scrum', 'Kanban', 'GNU/Linux']
+            'backend': ['Python', 'Java', 'C#'],
+            'pytools': ['NumPy', 'Matplotlib', 'Pandas'],
+            'tools': ['Git & GitHub', 'GNU/Linux'],
+            'misc': ['Scrum', 'Kanban', 'XP Programming']
         }
 
     def __str__(self):
