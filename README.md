@@ -5,7 +5,7 @@
 <h3 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
 
 <h4>
-  <p><a href="http://www.ufs.br/">Federal University of Sergipe</a> Bachelor Degree in Computer Engineering</p>
+  <p>Computer Engineering student in <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
   <p><a href="https://www.instagram.com/pyladiessergipe/">PyLadies Sergipe</a><a> co-organizer</a></p>
   <p>Currently learning Web Development, Scientific Computing & Data Science<p>
 </h4>
