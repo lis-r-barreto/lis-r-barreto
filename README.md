@@ -48,9 +48,14 @@ if __name__ == '__main__':
 
 ```
 
-[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=lis-r-barreto&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lis-r-barreto&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lis-r-barreto&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lis-r-barreto&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
 
