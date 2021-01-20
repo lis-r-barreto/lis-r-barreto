@@ -7,7 +7,7 @@
 <h4>
   <p>Computer Engineering student in <a href="http://www.ufs.br/">Federal University of Sergipe</a></p>
   <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-organizer</a></p>
-  <p>Currently learning Scientific Computing, Data Science & Web Development<p>
+  <p>Currently learning Scientific Computing & Data Science<p>
 </h4>
 
 <h2  align="center"></h2>
