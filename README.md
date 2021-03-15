@@ -7,7 +7,7 @@
 <h4>
   <p>Computer Science student
   <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-organizer</a></p>
-  <p>Currently learning Scientific Computing & Data Science<p>
+  <p>Currently learning Data Science<p>
 </h4>
 
 <h2  align="center"></h2>
