@@ -23,18 +23,15 @@
 
 
 ```python
-class LisBarreto:
+class Lis:
 
     def __init__(self):
         self.name = 'Lis R. Barreto'
         self.pronouns = 'she/her'
-        self.username = 'lis-r-barreto'
-        self.web = 'linktr.ee/LisBarreto'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'Java', 'C#'],
-            'pytools': ['NumPy', 'Matplotlib', 'Pandas', 'Jupyter Notebook'],
-            'tools': ['Git & GitHub', 'GNU/Linux'],
+            'languages': ['Python', 'SQL', 'Java'],
+            'pytools': ['NumPy', 'Matplotlib', 'Pandas', 'Seaborn', 'Scikit-learn', 'PySpark'],
+            'tools': ['Git', 'GNU/Linux'],
             'misc': ['Scrum', 'Kanban', 'XP Programming']
         }
 
@@ -43,7 +40,7 @@ class LisBarreto:
 
 
 if __name__ == '__main__':
-    me = LisBarreto()
+    me = Lis()
 
 
 ```
