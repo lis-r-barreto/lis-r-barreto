@@ -30,9 +30,9 @@ class Lis:
         self.pronouns = 'she/her'
         self.code = {
             'languages': ['Python', 'SQL', 'Java'],
-            'pytools': ['NumPy', 'Matplotlib', 'Pandas', 'Seaborn', 'Scikit-learn', 'PySpark'],
+            'pytools': ['NumPy',  'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'PySpark'],
             'tools': ['Git', 'GNU/Linux'],
-            'misc': ['Scrum', 'Kanban', 'XP Programming']
+            'agile': ['Scrum', 'Kanban', 'XP Programming']
         }
 
     def __str__(self):
