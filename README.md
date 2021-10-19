@@ -5,9 +5,9 @@
 <h3 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
 
 <h4>
-  <p>Computer Science student
+  <p>Computer Engineering student
   <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-organizer</a></p>
-  <p>Currently learning Data Science<p>
+  <p>Currently learning Data Engineering<p>
 </h4>
 
 <h2  align="center"></h2>
