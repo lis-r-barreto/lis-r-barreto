@@ -5,9 +5,9 @@
 <h3 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
 
 <h4>
-  <p>Computer Engineering student
+  <p>Data Engineer at XP Inc.
   <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-organizer</a></p>
-  <p>Currently learning Data Engineering<p>
+  <p>I'm learning how to build data pipelines to work with large datasets <p>
 </h4>
 
 <h2  align="center"></h2>
@@ -30,8 +30,10 @@ class Lis:
         self.pronouns = 'she/her'
         self.code = {
             'languages': ['Python', 'SQL', 'Java'],
-            'pytools': ['NumPy',  'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'PySpark'],
-            'tools': ['Git', 'GNU/Linux'],
+            'pylibs': ['NumPy',  'Pandas', 'Matplotlib', 'Plotly', 'Streamlit', 'Seaborn', 'Scikit-learn']
+            'frameworks': ['Apache Spark', 'Apache Kafka', 'Apache Airflow'],
+            'databases': ['SQL Server', 'Oracle', 'PostgreSQL', 'MongoDB']
+            'tools': ['Git', 'GNU/Linux', 'Docker', 'Microsoft Azure', 'Databricks'],
             'agile': ['Scrum', 'Kanban', 'XP Programming']
         }
 
