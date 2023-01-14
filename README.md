@@ -30,9 +30,9 @@ class Lis:
         self.pronouns = 'she/her'
         self.code = {
             'languages': ['Python', 'SQL', 'Java'],
-            'pylibs': ['NumPy',  'Pandas', 'Matplotlib', 'Plotly', 'Streamlit', 'Seaborn', 'Scikit-learn']
+            'pylibs': ['NumPy',  'Pandas', 'Matplotlib', 'Plotly', 'Streamlit', 'Seaborn', 'Scikit-learn'],
             'frameworks': ['Apache Spark', 'Apache Kafka', 'Apache Airflow'],
-            'databases': ['SQL Server', 'Oracle', 'PostgreSQL', 'MongoDB']
+            'databases': ['SQL Server', 'Oracle', 'PostgreSQL', 'MongoDB'],
             'tools': ['Git', 'GNU/Linux', 'Docker', 'Microsoft Azure', 'Databricks'],
             'agile': ['Scrum', 'Kanban', 'XP Programming']
         }
