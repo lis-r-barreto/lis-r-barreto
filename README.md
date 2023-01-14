@@ -6,7 +6,7 @@
 
 <h4>
   <p>Data Engineer at XP Inc.
-  <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-organizer</a></p>
+  <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-founder</a></p>
   <p>I'm learning how to build data pipelines to work with large datasets <p>
 </h4>
 
