@@ -5,9 +5,8 @@
 <h3 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
 
 <h4>
-  <p>Data Engineer at XP Inc.
+  <p>Data Engineer at <a href="https://www.cora.com.br/conta-pj-digital/">Cora</a></p><p>
   <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-founder</a></p>
-  <p>I'm learning how to build data pipelines to work with large datasets <p>
 </h4>
 
 <h2  align="center"></h2>
