@@ -1,13 +1,7 @@
-<!--
-**lis-r-barreto/lis-r-barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
+# 👋 Welcome to My GitHub!
 
-<h3 align="left"> Hi, I'm Lis! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
-
-<h4>
-  <p>Data Engineer at <a href="https://www.cora.com.br/conta-pj-digital/">Cora</a></p><p>
-  <p><a href="https://github.com/pyladies-sergipe">PyLadies Sergipe</a><a> co-founder</a></p>
-</h4>
+## 📖 About Me
+Hello! I'm Lis, a Data Engineer with 5+ years of hands-on Python experience. I'm passionate about Data and love harnessing its capabilities to drive business growth, optimize processes, and deliver data-driven solutions.
 
 <h2  align="center"></h2>
 <p align="center">
@@ -16,38 +10,37 @@
   <a href="mailto:lis.barreto.py@gmail.com?subject=Hello%20Lis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+🔧 Experience
 
+    💼 Financial Market:
+        Data storage, ingestion, and streaming
+        Pipeline orchestration
+        Robust data architecture design
+        API integration for enhanced data availability
+        Cost optimization and backlog prioritization
 
-### <img src="https://media0.giphy.com/media/1Q9vRiMF7jjcNrFB2o/giphy.gif" width="100"> A little more about me...  
+    ⚛️ Physics:
+        Implementation of complex algorithms
+        Data analysis and visualization
 
+💻 Python Community Involvement
 
-```python
-class Lis:
+    🌟 Co-founder of PyLadies Sergipe chapter, inspiring women to enter the field of technology.
+    🌐 Active participant in Python meetups and workshops, engaging in knowledge sharing and mentorship.
+    ✨ Contributions to the Python community for 5+ years, sharing insights and expertise.
 
-    def __init__(self):
-        self.name = 'Lis R. Barreto'
-        self.pronouns = 'she/her'
-        self.code = {
-            'languages': ['Python', 'SQL', 'Java'],
-            'pylibs': ['NumPy',  'Pandas', 'Matplotlib', 'Plotly', 'Streamlit', 'Seaborn', 'Scikit-learn'],
-            'frameworks': ['Apache Spark', 'Apache Kafka', 'Apache Airflow'],
-            'databases': ['SQL Server', 'Oracle', 'PostgreSQL', 'MongoDB'],
-            'tools': ['Git', 'GNU/Linux', 'Docker', 'Microsoft Azure', 'Databricks'],
-            'agile': ['Scrum', 'Kanban', 'XP Programming']
-        }
+🚀 Skills and Tools
 
-    def __str__(self):
-        return self.name
-
-
-if __name__ == '__main__':
-    me = Lis()
-
-
-```
+    Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly
+    Data Modeling: SQL
+    Data Analysis: Exploratory Data Analysis, Statistical Analysis
+    Data Engineering: Apache Kafka, Apache Airflow, Apache Spark
+    Cloud Platforms: Microsoft Azure, AWS, Databricks
+    Version Control: Git
+    Containerization: Docker
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
-
 <hr>
-
 <h3  align="center">💻 Check out my repos ⬇️ </h3>
+```
+
