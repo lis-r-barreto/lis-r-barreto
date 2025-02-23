@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!
 
 ## 📖 About Me
-Hello! I'm Lis, a Data Engineer with 5+ years of hands-on Python experience. I'm passionate about Data and love harnessing its capabilities to drive business growth, optimize processes, and deliver data-driven solutions.
+Hello! I'm Lis, a Machine Learning Engineer with 5+ years of hands-on Python experience. I'm passionate about Data and love harnessing its capabilities to drive business growth, optimize processes, and deliver data-driven solutions.
 
 <h2  align="center"></h2>
 <p align="center">
